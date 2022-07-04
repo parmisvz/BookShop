@@ -161,7 +161,7 @@
                        
                     </StackPanel>
                     <Border Width="250" Height="2" Background="Black" Opacity="0.5"/>
-                    <Button Click="Edit"  Width="90" Height="30" Content="Edit" Margin="60,10,60,0"/>
+                    <Button Click="Edit"  Width="100" Height="30" Content="Edit" Margin="60,10,60,0"/>
                     
                 </StackPanel>
 
